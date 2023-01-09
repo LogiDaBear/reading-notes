@@ -18,4 +18,3 @@ Here is my [:point_right: GitHub :point_left:](https://LogiDaBear.github.io/read
 You can also reach me at my email: lreese2112@gmail.com
 
 
-
