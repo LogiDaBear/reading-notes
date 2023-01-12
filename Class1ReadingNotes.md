@@ -1,4 +1,6 @@
-# The basics and some definitions for Markdown beginners
+# Reading Notes 1
+
+## The basics and some definitions for Markdown beginners
 
 ## When using Markdown there are Headers, like the one above, and even this one, that you can change the sizes of using a number of #'s (one # being the biggest)
 
