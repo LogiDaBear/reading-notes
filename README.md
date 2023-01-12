@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Reading 1](Class1ReadingNotes.md)
+- [Reading 1](102/Class1ReadingNotes.md)
 
-- [Reading 2](Class2ReadingNotes.md)
+- [Reading 2](102/Class2ReadingNotes.md)
 
 -
