@@ -20,7 +20,7 @@ browser assembles chunks for a web pagey!
 ### HTML, CSS, and JS files parsed into browser
 - [Reading](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
-When requests are sent to servers they search the HTML files for <link> elements that reference CSS files and <script> elements that are JS scripts. 
+When requests are sent to servers they search the HTML files for link elements that reference CSS files and script elements that are JS scripts. 
 Parsing is the step when a browser turns the data recieved over the network into the DOM and CSSOM which then is turned into a webpage.
 
 - The [Order](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work#parsing).
@@ -44,7 +44,7 @@ An attribute in HTML is extra information set within opening and closing tags. A
 
     An attribute value, wrapped with opening and closing quote marks.
 
-The anatomy of an HTML element is an opening tag: <p> followed by the content, (all of this between the p tags) and then the closing tag </p>.
+The anatomy of an HTML element is an opening tag: p followed by the content, (all of this between the p tags) and then the closing tag /p.
 From opening to closing tags is the element and the information in between is the content. Did I just repeat myself? Maybe.
 
 The difference between article and section element tags:
@@ -55,24 +55,24 @@ Articles can contain section tags within them to help isolate certain parts.
 
 Typical websites include AT LEAST the following elements...
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
+    <!DOCTYPE html>
+    <html lang="en-US">
+    <head>
     <meta charset="utf-8" />
     <title>My test page</title>
-  </head>
-  <body>
+    </head>
+    <body>
     <p>This is my page</p>
-  </body>
-</html>
+    </body>
+    </html>
 
 
-- [Metdata](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+- [Metadata](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 Metadata influences search engine optimization if you specify the content with keywords, which has the potential to make your page appear higher (like in a Google search) in relevance to whatever the keyword is. 
 
 The [meta](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#metadata_the_meta_element) tag is used when specifying metadata in example from the following link and reading:
-<meta
+    <//meta
   name="description"
   content="The MDN Web Docs site
   provides information about Open Web technologies
