@@ -1,10 +1,10 @@
-# Le Table of Contents
+# Reading Notes
 
-### [Mindset](mindset.md)
+### [About](mindset.md)
 
 
 
-## reading notes for 102
+## Code 102 - Intro to Software Development
 
 - [Reading 1](102/Class1ReadingNotes.md)
 
@@ -22,7 +22,7 @@
 
 - [Reading 8](102/Class8ReadingNotes.md)
 
-## reading notes for 201
+## Code 201 - Foundations of Software Development
 
 - [Reading 1](201/Class1.md)
 
@@ -53,3 +53,7 @@
 - [Reading 14](201/Class14.md)
 
 - [Reading 15](201/Class15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
