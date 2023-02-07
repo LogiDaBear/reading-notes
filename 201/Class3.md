@@ -123,6 +123,12 @@ Conditional statements should be used in the event of determining if code can ex
 
 From [loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#why_are_loops_useful) a good example of a useful loop would be if you needed to draw 100 random circles on a canvas element! Tried it and it is fun! (I am also a simple man to please).
 
+### Reading for JS
+- [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+- [OperatorsandExpressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+- [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+
 ## Things I want to know more about
  
 Who the cuss actually took the time to sit down and put this all to work in the way that they did. I understand it is a compilation of great coders stacking on-top of existing knowledge but I mean... What!?!
@@ -133,23 +139,23 @@ How would I go about creating a canvas element and making random circles like in
     const canvas = document.querySelector('canvas');
     const ctx = canvas.getContext('2d');
 
-  document.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('DOMContentLoaded', () => {
     canvas.width = document.documentElement.clientWidth;
     canvas.height = document.documentElement.clientHeight;
-  })
+    })
 
-  function random(number) {
+    function random(number) {
     return Math.floor(Math.random()*number);
-  }
+    }
 
-  function draw() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    for (let i = 0; i < 100; i++) {
+     function draw() {
+     ctx.clearRect(0, 0, canvas.width, canvas.height);
+     for (let i = 0; i < 100; i++) {
       ctx.beginPath();
       ctx.fillStyle = 'rgba(255,0,0,0.5)';
       ctx.arc(random(canvas.width), random(canvas.height), random(50), 0, 2 * Math.PI);
       ctx.fill();
-    }
-  }
+       }
+     }
 
-  btn.addEventListener('click',draw);
+     btn.addEventListener('click',draw);
