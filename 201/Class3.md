@@ -80,29 +80,29 @@ Padding is the person that allows you to have space within a strict rule of equa
 Lists of data items under the given variable - Single objects that contain multiple values but each value within can be accessed with just the variable name. 
 
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?  
-  
-  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+      
+      const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 
 Yes it is a valid array and you can access the array by calling the variable 'people' such as in a console.log(people);. Although it won't distinguish what are people- it will spew the entire list.
 
 3. List five shorthand operators for assignment in javascript and describe what they do.
 
-  Addition assignment	x += f()	          x = x + f()
-  Subtraction assignment	x -= f()	      x = x - f()
-  Multiplication assignment	x *= f()	    x = x * f()
-  Division assignment	x /= f()	          x = x / f()
-  Remainder assignment	x %= f()	        x = x % f()
+      Addition assignment	x += f()	          x = x + f()
+      Subtraction assignment	x -= f()	      x = x - f()
+      Multiplication assignment	x *= f()	    x = x * f()
+      Division assignment	x /= f()	          x = x / f()
+      Remainder assignment	x %= f()	        x = x % f()
 
 These are mathematical shorthand operators that evaluate to the far right equation.
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.  
-  
- let a = 10;
- let b = 'dog';
- let c = false;
+      
+    let a = 10;
+    let b = 'dog';
+    let c = false;
 
- // evaluate this
- (a + c) + b;
+    // evaluate this
+    (a + c) + b;
 
 The result would be 10dog because a number and string can't be added and c is just returning false which essentially means nothing here so 10 plus dog is..10dog.
 
@@ -110,14 +110,14 @@ The result would be 10dog because a number and string can't be added and c is ju
 
 Conditional statements should be used in the event of determining if code can execute or not and a real world example would be:
 
-  let workDone = false;
-  let planesFly;
+      let workDone = false;
+      let planesFly;
 
-  if (workDone === true){
-    planesFly = 'flying';
-  }else {
-    planesFly = 'Flights Canceled';
-  }
+      if (workDone === true){
+        planesFly = 'flying';
+      }else {
+        planesFly = 'Flights Canceled';
+      }
 
 6. Give an example of when a Loop is useful in JavaScript.
 
