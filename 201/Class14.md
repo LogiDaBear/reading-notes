@@ -31,7 +31,7 @@ Makes the website more interactive and receptive to people viewing it
 To make my CSS really shine and show off a nice looking website that isn't bland and dry. Adding transitions can go a long way
 
 
-# Reading part deux
+# Psychological Safety- reading part deux
 [Google Learned from...](https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 1. What are three key factors that contribute to psychologically safe teams?
 Conversational turn-taking, average social sensitivity and a sense of confidence that the team will not embarrass, reject or punish someone for speaking up
