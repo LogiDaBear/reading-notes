@@ -56,4 +56,34 @@
 
 ## Code 301 - Intermediate Software Development
 
+- [Reading 1](301/Reading Notes 1.md)
+
+- [Reading 2](301/Reading Notes 2.md)
+
+- [Reading 3](301/Reading Notes 3.md)
+
+- [Reading 4](301/Reading Notes 4.md)
+
+- [Reading 5](301/Reading Notes 5.md)
+
+- [Reading 6](301/Reading Notes 6.md)
+
+- [Reading 7](301/Reading Notes 7.md)
+
+- [Reading 8](301/Reading Notes 8.md)
+
+- [Reading 9](301/Reading Notes 9.md)
+
+- [Reading 10](301/Reading Notes 10.md)
+
+- [Reading 11](301/Reading Notes 11.md)
+
+- [Reading 12](301/Reading Notes 12.md)
+
+- [Reading 13](301/Reading Notes 13.md)
+
+- [Reading 14](301/Reading Notes 14.md)
+
+- [Reading 15](301/Reading Notes 15.md)
+
 ## Code 401 - Advanced Software Development
