@@ -18,5 +18,20 @@ ex:
 
           callMyself();
 
+# JS error messages
+
+1. What is a ‘reference error’?
+- When you try and use a variable that is not yet declared you get this error
+2. What is a ‘syntax error’?
+- this occurs when you have something that cannot be parsed in terms of syntax, like when you try to parse an invalid object using JSON.parse.
+3. What is a ‘range error’?
+- Try to manipulate an object with some kind of length and give it an invalid length and this kind of errors will show up.
+4. What is a ‘type error’?
+- this types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
+5. What is a breakpoint?
+- If the line you selected was run you will be able to see what has happened before that point and you can try and evaluate the next lines to check if everything is outputting what you are expecting.
+6. What does the word ‘debugger’ do in your code?
+- A breakpoint can be achieved by putting a debugger statement in your code in the line you want to break.
+
 ## Things I want to learn more about 
 - CSS always :D
