@@ -87,3 +87,91 @@
 - [Reading 15](301/ReadingNotes15.md)
 
 ## Code 401 - Advanced Software Development
+
+-  [Mindset Extension](401/Mindset.md) 
+
+- [Reading1]
+
+- [Reading2]
+
+- [Reading3]
+
+- [Reading4]
+
+- [Reading5]
+
+- [Reading6]
+
+- [Reading7]
+
+- [Reading8]
+
+- [Reading9]
+
+- [Reading10]
+
+- [Reading11]
+
+- [Reading12]
+
+- [Reading13]
+
+- [Reading14]
+
+- [Reading15]
+
+- [Reading16]
+
+- [Reading17]
+
+- [Reading18]
+
+- [Reading19]
+
+- [Reading20]
+
+- [Reading21]
+
+- [Reading22]
+
+- [Reading23]
+
+- [Reading24]
+
+- [Reading25]
+
+- [Reading26]
+
+- [Reading27]
+
+- [Reading28]
+
+- [Reading29]
+
+- [Reading30]
+
+- [Reading31]
+
+- [Reading32]
+
+- [Reading33]
+
+- [Reading34]
+
+- [Reading35]
+
+- [Reading36]
+
+- [Reading37]
+
+- [Reading38]
+
+- [Reading39]
+
+- [Reading40]
+
+- [Reading41]
+
+- [Reading42]
+
+- [Reading43]
