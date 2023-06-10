@@ -1,0 +1,3 @@
+# Growth Mindset 401 status
+
+Most of my biases were the same from the previous time I took this assessment. However, it was different from the previous assessment because the previous assessment was during my 201 and 301 pre-works. What I have seen slightly improve is my meaningful connections score. Through my Code Fellows journey, I was able to push the boundaries of myself into a greater learning with and through connections.
