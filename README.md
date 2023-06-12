@@ -94,7 +94,7 @@
 
 -  [Mindset Extension](401/Mindset.md) 
 
-- [Reading1]
+- [Reading1](401/ReadingNotes1.md)
 
 - [Reading2]
 
