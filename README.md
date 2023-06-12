@@ -89,6 +89,10 @@
 ## SQL/Database Reference
 
  - [SQL/Database](SQL/Databases.md)
+ 
+## Command Line
+
+ - [What A basic Bash](401/Bash.md)
 
 ## Code 401 - Advanced Software Development
 
