@@ -106,7 +106,7 @@
 
 - [Reading1](401/ReadingNotes1.md)
 
-- [Reading2]
+- [Reading2](401/ReadingNotes2.md)
 
 - [Reading3]
 
