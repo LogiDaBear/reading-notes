@@ -94,6 +94,10 @@
 
  - [What A basic Bash](401/Bash.md)
 
+## Data Structures and Algorithms
+
+  - [DSA](401/DSA.md)
+
 ## Code 401 - Advanced Software Development
 
 -  [Mindset Extension](401/Mindset.md) 
