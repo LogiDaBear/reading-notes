@@ -100,7 +100,9 @@
 
 ## Code 401 - Advanced Software Development
 
--  [Mindset Extension](401/Mindset.md) 
+- [Engineering Readings](401/EngineeringReadings.md)
+
+- [Mindset Extension](401/Mindset.md) 
 
 - [Reading1](401/ReadingNotes1.md)
 
