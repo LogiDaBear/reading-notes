@@ -104,11 +104,11 @@
 
 - [Mindset Extension](401/Mindset.md) 
 
-- [Reading1](401/ReadingNotes1.md)
+- [Reading 1](401/ReadingNotes1.md)
 
-- [Reading2](401/ReadingNotes2.md)
+- [Reading 2](401/ReadingNotes2.md)
 
-- [Reading3]
+- [Reading 3](401/ReadingNotes3.md)
 
 - [Reading4]
 
