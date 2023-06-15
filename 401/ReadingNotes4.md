@@ -32,4 +32,4 @@
 
 ## Things I want to know more about
 
-How to use python effectively without the internet and what kind of sickness those who came before google had in order to comprehend.
+How to use python effectively without the internet 
