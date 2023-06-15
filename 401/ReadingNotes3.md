@@ -6,8 +6,8 @@
 
 1. What is the purpose of the `with` statement when opening a file in Python, and how does it help manage resources while reading and writing files?
 
-- 
-The purpose of the `with` statement when opening a file in Python is to ensure that the file is properly closed after its use. It helps manage resources by automatically handling the process of opening and closing the file, even if an exception occurs.
+  - 
+  The purpose of the `with` statement when opening a file in Python is to ensure that the file is properly closed after its use. It helps manage resources by automatically handling the process of opening and closing the file, even if an exception occurs.
 
 2. Explain the difference between the ‘read()’ and ‘readline()’ methods for file objects in Python. Provide examples of when to use each method.
 
