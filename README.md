@@ -116,9 +116,9 @@
 
 - [Reading 6](401/ReadingNotes6.md)
 
-- [Reading7]
+- [Reading 7](401/ReadingNotes7.md)
 
-- [Reading8]
+- [Reading 8](401/ReadingNotes8.md)
 
 - [Reading9]
 
