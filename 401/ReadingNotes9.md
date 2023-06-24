@@ -23,23 +23,23 @@
 3. Explain the basic structure and properties of NumPy arrays, and provide examples of how to create, manipulate, and perform operations on them.
 
     The basic structure of NumPy arrays is the ndarray (n-dimensional array) object. It represents a grid of values of the same data type, indexed by non-negative integers. Here are the key properties and examples of creating, manipulating, and performing operations on NumPy arrays:
-    #### Creation, Manipulation and Operations on NumPy arrays
+#### Creation, Manipulation and Operations on NumPy arrays
 - Creation
-    ```import numpy as np
+        import numpy as np
 
         my_list = [1, 2, 3, 4, 5]
         my_array = np.array(my_list)
         print(my_array)
-        # Output: [1 2 3 4 5]```
+        # Output: [1 2 3 4 5]
 - Manipulation
-   ```my_array = np.array([1, 2, 3, 4, 5, 6])
+      my_array = np.array([1, 2, 3, 4, 5, 6])
       reshaped_array = my_array.reshape((2, 3))  # 2 rows, 3 columns
       print(reshaped_array)
-      # Output:
-      # [[1 2 3]
-      #  [4 5 6]]```
+       #Output:
+       #[[1 2 3]
+       #[4 5 6]]
 - Operations
-    ```array1 = np.array([1, 2, 3])
+       array1 = np.array([1, 2, 3])
        array2 = np.array([4, 5, 6])
        
        sum_array = array1 + array2
