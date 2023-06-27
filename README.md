@@ -122,7 +122,7 @@
 
 - [Reading 9](401/ReadingNotes9.md)
 
-- [Reading10]
+- [Reading 10](401/ReadingNotes10.md)
 
 - [Reading11]
 
