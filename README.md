@@ -126,7 +126,7 @@
 
 - [Reading 11](401/ReadingNotes11.md)
 
-- [Reading12]
+- [Reading 12](401/ReadingNotes12.md)
 
 - [Reading13]
 
