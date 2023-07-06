@@ -132,9 +132,9 @@
 
 - [Reading 14](401/ReadingNotes14.md)
 
-- [Reading15]
+- [Reading 15](401/ReadingNotes15.md)
 
-- [Reading16]
+- [Reading 16](401/ReadingNotes16.md)
 
 - [Reading17]
 
