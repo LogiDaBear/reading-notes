@@ -138,7 +138,7 @@
 
 - [Reading 17](401/ReadingNotes17.md)
 
-- [Reading18]
+- [Reading 18](401/ReadingNotes18.md)
 
 - [Reading19]
 
