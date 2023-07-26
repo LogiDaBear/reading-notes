@@ -148,7 +148,7 @@
 
 - [Reading 22](401/ReadingNotes22.md)
 
-- [Reading23]
+- [Reading 23](401/ReadingNotes23.md)
 
 - [Reading24]
 
