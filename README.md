@@ -150,7 +150,7 @@
 
 - [Reading 23](401/ReadingNotes23.md)
 
-- [Reading24]
+- [Reading 24](401/ReadingNotes24.md)
 
 - [Reading25]
 
