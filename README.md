@@ -152,7 +152,7 @@
 
 - [Reading 24](401/ReadingNotes24.md)
 
-- [Reading25]
+- [Reading 25](401/ReadingNotes25.md)
 
 - [Reading26]
 
