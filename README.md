@@ -86,19 +86,10 @@
 
 - [Reading 15](301/ReadingNotes15.md)
 
-## SQL/Database Reference
 
- - [SQL/Database](SQL/Databases.md)
- 
-## Command Line
 
- - [What A basic Bash](401/Bash.md)
 
-## Data Structures and Algorithms
-
-  - [DSA](401/DSA.md)
-
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development in Python :snake: :godmode: :snake:
 
 - [Engineering Readings](401/EngineeringReadings.md)
 
@@ -189,3 +180,15 @@
 - [Reading42]
 
 - [Reading43]
+
+## [SQL/Database Reference](SQL/Databases.md)
+
+ 
+## [Command Line](401/Bash.md)
+
+
+## [Data Structures and Algorithms](401/DSA.md)
+
+## Whiteboards
+- [WB1](Whiteboards/WB1.md)
+- [WB2](Whiteboards/WB2.md)
