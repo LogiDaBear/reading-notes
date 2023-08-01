@@ -147,7 +147,7 @@
 
 - [Reading 26](401/ReadingNotes26.md)
 
-- [Reading27]
+- [Reading 27](401/ReadingNotes27.md)
 
 - [Reading28]
 
