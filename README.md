@@ -151,7 +151,7 @@
 
 - [Reading 28](401/ReadingNotes28.md)
 
-- [Reading29]
+- [Reading 29](401/ReadingNotes29.md)
 
 - [Reading30]
 
