@@ -149,7 +149,7 @@
 
 - [Reading 27](401/ReadingNotes27.md)
 
-- [Reading28]
+- [Reading 28](401/ReadingNotes28.md)
 
 - [Reading29]
 
