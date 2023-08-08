@@ -153,7 +153,7 @@
 
 - [Reading 29](401/ReadingNotes29.md)
 
-- [Reading30]
+- [Reading 30](401/ReadingNotes30.md)
 
 - [Reading31]
 
@@ -188,6 +188,8 @@
 
 
 ## [Data Structures and Algorithms](401/DSA.md)
+
+## [Ethics](Ethics/Ethics.md)
 
 ## Whiteboards
 - [WB1](Whiteboards/WB1.md)

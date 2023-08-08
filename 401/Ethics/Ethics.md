@@ -1,0 +1,14 @@
+# Ethics
+
+## The code I'm still ashamed of
+
+The author recounts an experience from the year 2000 when they worked as a developer for an interactive marketing firm in Canada. The firm was hired by pharmaceutical companies to create websites that presented general information about prescription drugs. One project involved a manipulative quiz targeted at teenage girls, recommending a specific drug regardless of their answers. The author, at the time, didn't feel troubled by this deceitful approach. Later, they learned that a girl had committed suicide after taking the drug they had built the website for, which had severe side effects including depression and suicidal thoughts. This incident made the author question the ethics of their work and the responsibility of developers to ensure their code is ethically sound. They now advocate for considering the consequences of code and adhering to ethical standards.
+
+I disagree with his initial assessment but agree with his second assessment - too much of what happens day to day is clouded in manipulation and deception.
+
+## Will democracy survive the big data and AI?
+
+The digital revolution is rapidly changing society, but its impact is both promising and concerning. The amount of data generated yearly is doubling, and every minute sees countless Google searches and social media posts that reflect human thoughts and emotions. The internet is becoming more integrated into everyday life, with estimates predicting 150 billion networked measuring sensors in a decade, enabling data to double every 12 hours. Artificial intelligence (AI) is advancing, automating data analysis, and impacting industries; it's expected that AI and automation could threaten around half of today's jobs in 10 to 20 years. While AI holds great potential, there are concerns about its uncontrolled growth, as expressed by tech leaders like Elon Musk, Bill Gates, and Stephen Hawking. Privacy, diversity, and democracy are at risk as AI algorithms personalize information, limiting perspectives, fostering social polarization, and potentially leading to a centralized, controlled society. To mitigate these challenges, a new social contract is needed to protect citizens' rights in the digital age, alongside improved education on digital literacy and responsible technology use. Promoting decentralization, transparency, user-controlled information filters, and collective intelligence is crucial to harness the benefits of the digital revolution while avoiding potential harm.
+
+I agree with the article and specifically the advancing of AI being a slippery slope in the digital
+world of social polarization. We already see deepfakes and digital misinformation now.
