@@ -54,6 +54,10 @@
 
 - [Reading 15](201/Class15.md)
 
+- [FCC](201/selfie.jpg)
+
+- [FCCasMD](201/fccselfie.md)
+
 ## Code 301 - Intermediate Software Development
 
 - [Reading 1](301/ReadingNotes1.md)
@@ -85,6 +89,7 @@
 - [Reading 14](301/ReadingNotes14.md)
 
 - [Reading 15](301/ReadingNotes15.md)
+
 
 
 
