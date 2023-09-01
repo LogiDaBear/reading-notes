@@ -155,30 +155,6 @@
 
 - [Reading 30](401/ReadingNotes30.md)
 
-- [Reading31]
-
-- [Reading32]
-
-- [Reading33]
-
-- [Reading34]
-
-- [Reading35]
-
-- [Reading36]
-
-- [Reading37]
-
-- [Reading38]
-
-- [Reading39]
-
-- [Reading40]
-
-- [Reading41]
-
-- [Reading42]
-
 - [Submission](401/submission.md)
 
 ## [SQL/Database Reference](SQL/Databases.md)
